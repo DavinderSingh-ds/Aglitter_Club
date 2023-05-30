@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "225517337367",
+    "project_id": "socialhub-23c71",
+    "storage_bucket": "socialhub-23c71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225517337367:android:34de9712978425ff7b5552",
+        "android_client_info": {
+          "package_name": "com.example.google_signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225517337367-3m072les72g2t85tsk5b26puj53j16gj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjbzIMlDnimEK1CDiNjOGU4gRNOjwpsUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225517337367-3m072les72g2t85tsk5b26puj53j16gj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

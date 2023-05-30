@@ -1,6 +1,6 @@
 import 'dart:developer';
 
-import 'package:google_signin/Global_Uses/enum_generation.dart';
+import 'package:aglitterr/Global_Uses/enum_generation.dart';
 import 'package:google_sign_in/google_sign_in.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 

@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'dart:io';
-import 'package:google_signin/FrontEnd/model/channel_model.dart';
-import 'package:google_signin/utilities/keys.dart';
+import 'package:aglitterr/FrontEnd/model/channel_model.dart';
+import 'package:aglitterr/utilities/keys.dart';
 import 'package:http/http.dart' as http;
 
 import '../FrontEnd/model/video_model.dart';
